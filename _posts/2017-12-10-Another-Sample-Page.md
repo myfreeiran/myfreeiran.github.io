@@ -1,15 +1,9 @@
 ---
-title: Another Sample Page
+title: رفع اتصال تلگرام
 published: true
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](another-page).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+خب اول از همه باید نرم افزار ترموکس رو از این لینک دانلود کنید : https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk
 
 # [](#header-1)Header 1
 
