@@ -20,7 +20,7 @@ tor
 از این پس تلگرام شما بدون فیلتر و قطعی می باشد ممکن است سرعت پایین باشد ولی اکثر مواقع متصل می شوید.
 
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](https://raw.githubusercontent.com/myfreeiran/myfreeiran.github.io/main/assets/1.jpg)
 
 
 ![](https://guides.github.com/activities/hello-world/branching.png)
